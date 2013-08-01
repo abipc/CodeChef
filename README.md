@@ -1,4 +1,4 @@
-CodeCHefCountari
+CodeChef
 ================
 
-AP triplets in a number stream
+Solution to codechef problems @ http://www.codechef.com/
