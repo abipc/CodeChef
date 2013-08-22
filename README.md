@@ -1,4 +1,5 @@
 homework
 ================
+A bunch of problems.. just nerdy homework
 
-APtripletInStream.java - Solution to codechef problem @ http://www.codechef.com/
+
