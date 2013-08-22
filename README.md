@@ -1,4 +1,4 @@
-CodeChef
+homework
 ================
 
-Solution to codechef problems @ http://www.codechef.com/
+APtripletInStream.java - Solution to codechef problem @ http://www.codechef.com/
